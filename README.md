@@ -1,1 +1,1 @@
-# gitattibutes
+# gitattributes
